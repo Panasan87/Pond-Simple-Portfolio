@@ -18,9 +18,9 @@ This project is a clean and efficient portfolio designed to showcase data analys
 - **GitHub Pages:** Hosting and deployment.
 
 ## 📂 Project Structure
-- `index.html`: Main entry point and site structure.
-- `style.css`: Custom styling and theme definitions.
-- `script.js`: Client-side logic and interactivity.
+- `docs/index.html`: Main entry point and site structure.
+- `docs/style.css`: Custom styling and theme definitions.
+- `docs/script.js`: Client-side logic and interactivity.
 - `plan/`: Project development documentation and roadmap.
 
 ## 🌐 Live Demo
